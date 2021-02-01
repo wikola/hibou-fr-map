@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.facebook.com\/"
+                 "value":"http:\/\/validation.hibou-ecole.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
