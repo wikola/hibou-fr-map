@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/hibou.test\/cours-de-francais\/"
+                 "value":"https:\/\/www.facebook.com\/"
                 }],
          "type":"tilelayer",
          "visible":true,
